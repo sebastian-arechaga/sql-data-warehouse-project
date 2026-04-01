@@ -10,6 +10,7 @@ In this project, I built a modern data warehouse using SQL Server following a me
 Raw data from multiple source systems (ERP and CRM) was ingested, cleaned, and transformed into a structured format optimized for analytics. The final output enables efficient querying and supports business insights through a star schema design.
 
 🎯 Objectives
+
 Design a scalable data warehouse for analytical reporting
 Clean and integrate data from multiple sources
 Build fact and dimension tables for efficient querying
@@ -19,6 +20,7 @@ SQL Server Express
 SQL Server Management Studio (SSMS)
 T-SQL (SQL)
 Draw.io (for data modeling and architecture diagrams)
+
 🏗️ Data Architecture
 
 This project uses a medallion architecture to organize data into three layers:
@@ -58,6 +60,7 @@ Combined datasets into a unified structure
 Load
 Loaded processed data into Silver and Gold layers
 Created fact and dimension tables for analysis
+
 📊 Analytics & Insights
 
 The data warehouse supports analytical queries such as:
