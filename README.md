@@ -1,8 +1,5 @@
 # Data Warehouse and Analytics Project
 
-In this project, I built a modern data warehouse using SQL Server following a medallion architecture (Bronze, Silver, Gold).
-
-Starting from raw CSV data (ERP and CRM systems), I designed ETL pipelines to clean, transform, and structure the data into a star schema optimized for analytical queries.
 📖 Project Overview
 
 In this project, I built a modern data warehouse using SQL Server following a medallion architecture (Bronze, Silver, Gold).
